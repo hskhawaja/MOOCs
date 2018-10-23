@@ -1,4 +1,4 @@
-# MOOCs
+# MOOCs - Massive Open Online Courses
 This repository records my monthly progress of completing MOOCs.
 
 ### Oct 2018
