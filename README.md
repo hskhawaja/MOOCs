@@ -3,7 +3,13 @@ This repository records my monthly progress of completing MOOCs.
 
 ### Oct 2018
 
+<a href='https://courses.cognitiveclass.ai/certificates/e1c045bd3d21406db44f20afe2bcc977'>Deep Learning Fundamentals</a>
+
 ### Sep 2018
+
+<a href='https://www.coursera.org/account/accomplishments/verify/DE3CHXDWN75Q'>Art and Science of Machine Learning</a>
+<a href='https://www.datacamp.com/courses/building-chatbots-in-python'>Building Chatbots in Python</a>
+<a href='https://www.coursera.org/account/accomplishments/verify/VQ5XFARWR7HG'>Feature Engineering</a>
 
 ### Aug 2018
 
