@@ -18,7 +18,11 @@ This repository records my monthly progress of completing MOOCs.
 ### Aug 2018
 
 <a href='https://www.datacamp.com/courses/intro-to-sql-for-data-science'>Intro to SQL for Data Science</a><br/>
-
+<a href='https://www.coursera.org/account/accomplishments/verify/R6D4ASHQCU4U'>Intro to TensorFlow</a><br/>
+<a href='https://www.linkedin.com/learning/learning-data-governance'>Learning Data Governance</a><br/>
+<a href='https://courses.cognitiveclass.ai/certificates/8d497689b22347f39e0a8407b70d24c6'>Machine Learning with Python</a><br/>
+<a href='https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training'>NLP with Python for Machine Learning Essential Training</a><br/>
+<a href='https://courses.cognitiveclass.ai/certificates/f8064e411de24e3a968b296c18afcf7b'>Python 101 for Data Science</a><br/>
 
 ### Jul 2018
 
