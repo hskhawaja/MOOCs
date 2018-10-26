@@ -26,7 +26,14 @@ This repository records my monthly progress of completing MOOCs.
 
 ### Jul 2018
 
+<a href='https://www.coursera.org/account/accomplishments/verify/T7FJFFBLAYPK'>Launching into Machine Learning</a><br/>
+<a href='https://www.linkedin.com/learning/opencv-for-python-developers'>OpenCV for Python Developers</a><br/>
+<a href='https://www.linkedin.com/learning/spark-for-machine-learning-ai'>Spark for Machine Learning & AI</a><br/>
+
 ### Jun 2018
+
+<a href='https://www.linkedin.com/learning/building-and-deploying-deep-learning-applications-with-tensorflow'>Building and Deploying Deep Learning Applications with TensorFlow</a><br/>
+<a href='https://www.coursera.org/account/accomplishments/verify/2QB6L8ED2VS6'>How Google does Machine Learning</a><br/>
 
 ### Oct 2017
 
