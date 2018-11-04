@@ -37,9 +37,17 @@ This repository records my monthly progress of completing MOOCs.
 
 ### Oct 2017
 
+<a href='https://www.coursera.org/account/accomplishments/verify/X3CHPZ6MFQGA'>Neural Networks and Deep Learning</a><br/>
+
 ### May 2017
 
+<a href='https://www.datacamp.com/courses/supervised-learning-with-scikit-learn?utm_source=LinkedIn&utm_medium=Certificate&utm_content=Certificate&utm_campaign=Linkedin-Certificate'>Supervised Learning with scikit-learn</a><br/>
+
 ### Mar 2017
+
+<a href='https://www.datacamp.com/courses/importing-data-in-python-part-1?utm_source=LinkedIn&utm_medium=Certificate&utm_content=Certificate&utm_campaign=Linkedin-Certificate'>Importing Data in Python (Part 1)</a><br/>
+<a href='https://www.datacamp.com/courses/importing-data-in-python-part-2?utm_source=LinkedIn&utm_medium=Certificate&utm_content=Certificate&utm_campaign=Linkedin-Certificate'>Importing Data in Python (Part 2)</a><br/>
+<a href='https://www.coursera.org/account/accomplishments/verify/XU98587KZTGZ'>Using Python to Access Web Data</a><br/>
 
 ### Feb 2017
 
