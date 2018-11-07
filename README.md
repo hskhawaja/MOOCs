@@ -1,6 +1,10 @@
 # MOOCs - Massive Open Online Courses
 This repository records my monthly progress of completing MOOCs.
 
+### Nov 2018
+
+<a href='https://courses.cognitiveclass.ai/certificates/446ed46cd9cc4b458f14e8705512019e'>Deep Learning with Tensorflow</a>
+
 ### Oct 2018
 
 <a href='https://courses.cognitiveclass.ai/certificates/e1c045bd3d21406db44f20afe2bcc977'>Deep Learning Fundamentals</a>
@@ -51,4 +55,12 @@ This repository records my monthly progress of completing MOOCs.
 
 ### Feb 2017
 
+<a href='https://www.datacamp.com/courses/intermediate-python-for-data-science?utm_source=LinkedIn&utm_medium=Certificate&utm_content=Certificate&utm_campaign=Linkedin-Certificate'>Intermediate Python for Data Science</a><br/>
+<a href='https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=LinkedIn&utm_medium=Certificate&utm_content=Certificate&utm_campaign=Linkedin-Certificate'>Intro to Python for Data Science</a><br/>
+<a href='https://www.coursera.org/account/accomplishments/verify/2N5GNK7NH6Z9'>Programming for Everybody (Getting Started with Python)</a><br/>
+<a href='https://www.datacamp.com/courses/python-data-science-toolbox-part-1?utm_source=LinkedIn&utm_medium=Certificate&utm_content=Certificate&utm_campaign=Linkedin-Certificate'>Python Data Science Toolbox (Part 1)</a><br/>
+<a href='https://www.coursera.org/account/accomplishments/verify/CMD582J8VPS5'>Python Data Structures</a><br/>
+
 ### Sep 2016
+
+<a href='https://www.coursera.org/account/accomplishments/verify/KJTLPNRMS8AD'>HTML, CSS and JavaScript</a><br/>
