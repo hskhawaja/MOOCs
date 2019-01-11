@@ -1,6 +1,10 @@
 # MOOCs - Massive Open Online Courses
 This repository records my monthly progress of completing MOOCs.
 
+### Jan 2019
+
+<a href='https://www.udemy.com/certificate/UC-0MMEEHUY/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email'>Learn Computer Vision with OpenCV Library using Python</a>
+
 ### Nov 2018
 
 <a href='https://courses.cognitiveclass.ai/certificates/446ed46cd9cc4b458f14e8705512019e'>Deep Learning with Tensorflow</a>
