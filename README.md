@@ -4,7 +4,8 @@ This repository records my monthly progress of completing MOOCs.
 ### Jan 2019
 
 <a href='https://www.udemy.com/certificate/UC-0MMEEHUY/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email'>Learn Computer Vision with OpenCV Library using Python</a><br/>
-<a href='https://www.udemy.com/certificate/UC-AHN71HQY/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email'>Deep Learning Prerequisites: The Numpy Stack in Python</a>
+<a href='https://www.udemy.com/certificate/UC-AHN71HQY/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email'>Deep Learning Prerequisites: The Numpy Stack in Python</a><br/>
+<a href='https://certificates.mooc.fi/validate/hgcny7pbmpj'>Elements of AI</a><br/>
 
 ### Nov 2018
 
