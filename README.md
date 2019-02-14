@@ -1,6 +1,10 @@
 # MOOCs - Massive Open Online Courses
 This repository records my monthly progress of completing MOOCs.
 
+### Feb 2019
+
+<a href='https://www.datacamp.com/statement-of-accomplishment/course/048411ceaec557fb9a74fd4ac9a5125c0825c4ce'>Intro to Python for Finance</a><br/>
+
 ### Jan 2019
 
 <a href='https://www.udemy.com/certificate/UC-0MMEEHUY/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email'>Learn Computer Vision with OpenCV Library using Python</a><br/>
