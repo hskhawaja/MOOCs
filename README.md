@@ -1,6 +1,10 @@
 # MOOCs - Massive Open Online Courses
 This repository records my monthly progress of completing MOOCs.
 
+### Apr 2019
+
+<a href='https://www.datacamp.com/statement-of-accomplishment/course/2f9c6ba731cc49bcdce0fbcad5d2b42f79afc1e6'>Writing Efficient Python Code</a><br/>
+
 ### Feb 2019
 
 <a href='https://www.datacamp.com/statement-of-accomplishment/course/048411ceaec557fb9a74fd4ac9a5125c0825c4ce'>Intro to Python for Finance</a><br/>
