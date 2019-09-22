@@ -1,6 +1,14 @@
 # MOOCs - Massive Open Online Courses
 This repository records my monthly progress of completing MOOCs.
 
+### Sep 2019
+
+<a href='https://www.datacamp.com/statement-of-accomplishment/course/2d0884a7e7c47cf3d2d5fa854025df6c761f15a7'>Data Science for Business Leaders</a><br/>
+
+### Jul 2019
+
+<a href='http://www.linkedin.com/learning/azure-machine-learning-development-1-basic-concepts'>Azure Machine Learning Development: 1 Basic Concepts</a><br/>
+
 ### May 2019
 
 <a href='https://www.coursera.org/account/accomplishments/verify/3S88ELKDSSPE'>Data Science Math Skills</a><br/>
