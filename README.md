@@ -1,6 +1,10 @@
 # MOOCs - Massive Open Online Courses
 This repository records my monthly progress of completing MOOCs.
 
+### Dec 2019
+
+<a href='https://wqu.thedataincubator.com/certificate/6265776226959360'>Scientific Computing and Python for Data Science</a><br/>
+
 ### Sep 2019
 
 <a href='https://www.datacamp.com/statement-of-accomplishment/course/2d0884a7e7c47cf3d2d5fa854025df6c761f15a7'>Data Science for Business Leaders</a><br/>
